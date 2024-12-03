@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **advanced SQL, Python and adoption of new data analysis tools**
 
-- 💬 Ask me about **Power Bi,Metabase,SQL**
-
 - 📫 How to reach me **susansyevuo22@gmail.com**
 
 - ⚡ Fun fact **I play an instrument, my voice🤭**
