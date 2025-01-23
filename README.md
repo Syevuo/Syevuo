@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **susansyevuo22@gmail.com**
 
-- ⚡ Fun fact **I play an instrument, my voice🤭**
+- ⚡ Fun fact **I play an instrument, my voice😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
