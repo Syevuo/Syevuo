@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects that will showcase the possibilities of utilizing data to inform decisions in any organization**
 
-- 🌱 I’m currently learning **building AI agents**
+- 🌱 I’m currently learning **how to build AI agents**
 
 - 📫 How to reach me **susansyevuo22@gmail.com**
 
